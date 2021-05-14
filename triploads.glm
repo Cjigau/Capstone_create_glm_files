@@ -10,6 +10,7 @@ object triplex_load {
         table House1;
         connection mysql_gridlabd;
 		property constant_power_1;
+
 	};
 }
 object triplex_load {
@@ -16794,6 +16795,10086 @@ object triplex_load {
 	object player {
 		name Load_692_C_40;
 		file DRYER600.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_1;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_1;
+		file HOUSE601.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_1;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_1;
+		file DRYER601.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_2;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_2;
+		file HOUSE602.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_2;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_2;
+		file DRYER602.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_3;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_3;
+		file HOUSE603.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_3;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_3;
+		file DRYER603.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_4;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_4;
+		file HOUSE604.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_4;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_4;
+		file DRYER604.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_5;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_5;
+		file HOUSE605.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_5;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_5;
+		file DRYER605.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_6;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_6;
+		file HOUSE606.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_6;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_6;
+		file DRYER606.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_7;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_7;
+		file HOUSE607.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_7;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_7;
+		file DRYER607.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_8;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_8;
+		file HOUSE608.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_8;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_8;
+		file DRYER608.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_9;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_9;
+		file HOUSE609.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_9;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_9;
+		file DRYER609.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_10;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_10;
+		file HOUSE610.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_10;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_10;
+		file DRYER610.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_11;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_11;
+		file HOUSE611.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_11;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_11;
+		file DRYER611.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_12;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_12;
+		file HOUSE612.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_12;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_12;
+		file DRYER612.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_13;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_13;
+		file HOUSE613.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_13;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_13;
+		file DRYER613.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_14;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_14;
+		file HOUSE614.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_14;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_14;
+		file DRYER614.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_15;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_15;
+		file HOUSE615.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_15;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_15;
+		file DRYER615.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_16;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_16;
+		file HOUSE616.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_16;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_16;
+		file DRYER616.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_17;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_17;
+		file HOUSE617.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_17;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_17;
+		file DRYER617.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_18;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_18;
+		file HOUSE618.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_18;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_18;
+		file DRYER618.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_19;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_19;
+		file HOUSE619.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_19;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_19;
+		file DRYER619.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_20;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_20;
+		file HOUSE620.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_20;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_20;
+		file DRYER620.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_21;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_21;
+		file HOUSE621.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_21;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_21;
+		file DRYER621.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_22;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_22;
+		file HOUSE622.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_22;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_22;
+		file DRYER622.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_23;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_23;
+		file HOUSE623.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_23;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_23;
+		file DRYER623.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_24;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_24;
+		file HOUSE624.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_24;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_24;
+		file DRYER624.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_25;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_25;
+		file HOUSE625.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_25;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_25;
+		file DRYER625.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_26;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_26;
+		file HOUSE626.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_26;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_26;
+		file DRYER626.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_27;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_27;
+		file HOUSE627.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_27;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_27;
+		file DRYER627.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_28;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_28;
+		file HOUSE628.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_28;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_28;
+		file DRYER628.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_29;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_29;
+		file HOUSE629.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_29;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_29;
+		file DRYER629.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_30;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_30;
+		file HOUSE630.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_30;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_30;
+		file DRYER630.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_31;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_31;
+		file HOUSE631.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_31;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_31;
+		file DRYER631.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_32;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_32;
+		file HOUSE632.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_32;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_32;
+		file DRYER632.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_33;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_33;
+		file HOUSE633.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_33;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_33;
+		file DRYER633.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_34;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_34;
+		file HOUSE634.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_34;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_34;
+		file DRYER634.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_35;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_35;
+		file HOUSE635.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_35;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_35;
+		file DRYER635.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_36;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_36;
+		file HOUSE636.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_36;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_36;
+		file DRYER636.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_37;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_37;
+		file HOUSE637.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_37;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_37;
+		file DRYER637.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_38;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_38;
+		file HOUSE638.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_38;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_38;
+		file DRYER638.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_39;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_39;
+		file HOUSE639.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_39;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_39;
+		file DRYER639.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_h_40;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_A_40;
+		file HOUSE640.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_A_L_40;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_A_40;
+		file DRYER640.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_1;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_1;
+		file HOUSE641.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_1;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_1;
+		file DRYER641.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_2;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_2;
+		file HOUSE642.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_2;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_2;
+		file DRYER642.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_3;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_3;
+		file HOUSE643.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_3;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_3;
+		file DRYER643.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_4;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_4;
+		file HOUSE644.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_4;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_4;
+		file DRYER644.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_5;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_5;
+		file HOUSE645.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_5;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_5;
+		file DRYER645.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_6;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_6;
+		file HOUSE646.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_6;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_6;
+		file DRYER646.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_7;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_7;
+		file HOUSE647.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_7;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_7;
+		file DRYER647.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_8;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_8;
+		file HOUSE648.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_8;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_8;
+		file DRYER648.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_9;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_9;
+		file HOUSE649.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_9;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_9;
+		file DRYER649.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_10;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_10;
+		file HOUSE650.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_10;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_10;
+		file DRYER650.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_11;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_11;
+		file HOUSE651.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_11;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_11;
+		file DRYER651.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_12;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_12;
+		file HOUSE652.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_12;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_12;
+		file DRYER652.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_13;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_13;
+		file HOUSE653.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_13;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_13;
+		file DRYER653.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_14;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_14;
+		file HOUSE654.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_14;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_14;
+		file DRYER654.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_15;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_15;
+		file HOUSE655.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_15;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_15;
+		file DRYER655.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_16;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_16;
+		file HOUSE656.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_16;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_16;
+		file DRYER656.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_17;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_17;
+		file HOUSE657.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_17;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_17;
+		file DRYER657.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_18;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_18;
+		file HOUSE658.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_18;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_18;
+		file DRYER658.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_19;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_19;
+		file HOUSE659.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_19;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_19;
+		file DRYER659.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_20;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_20;
+		file HOUSE660.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_20;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_20;
+		file DRYER660.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_21;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_21;
+		file HOUSE661.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_21;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_21;
+		file DRYER661.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_22;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_22;
+		file HOUSE662.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_22;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_22;
+		file DRYER662.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_23;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_23;
+		file HOUSE663.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_23;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_23;
+		file DRYER663.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_24;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_24;
+		file HOUSE664.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_24;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_24;
+		file DRYER664.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_25;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_25;
+		file HOUSE665.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_25;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_25;
+		file DRYER665.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_26;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_26;
+		file HOUSE666.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_26;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_26;
+		file DRYER666.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_27;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_27;
+		file HOUSE667.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_27;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_27;
+		file DRYER667.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_28;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_28;
+		file HOUSE668.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_28;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_28;
+		file DRYER668.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_29;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_29;
+		file HOUSE669.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_29;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_29;
+		file DRYER669.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_30;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_30;
+		file HOUSE670.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_30;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_30;
+		file DRYER670.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_31;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_31;
+		file HOUSE671.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_31;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_31;
+		file DRYER671.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_32;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_32;
+		file HOUSE672.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_32;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_32;
+		file DRYER672.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_33;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_33;
+		file HOUSE673.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_33;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_33;
+		file DRYER673.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_34;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_34;
+		file HOUSE674.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_34;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_34;
+		file DRYER674.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_35;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_35;
+		file HOUSE675.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_35;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_35;
+		file DRYER675.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_36;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_36;
+		file HOUSE676.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_36;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_36;
+		file DRYER676.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_37;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_37;
+		file HOUSE677.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_37;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_37;
+		file DRYER677.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_38;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_38;
+		file HOUSE678.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_38;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_38;
+		file DRYER678.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_39;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_39;
+		file HOUSE679.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_39;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_39;
+		file DRYER679.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_h_40;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_B_40;
+		file HOUSE680.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_B_L_40;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_B_40;
+		file DRYER680.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_1;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_1;
+		file HOUSE681.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_1;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_1;
+		file DRYER681.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_2;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_2;
+		file HOUSE682.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_2;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_2;
+		file DRYER682.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_3;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_3;
+		file HOUSE683.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_3;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_3;
+		file DRYER683.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_4;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_4;
+		file HOUSE684.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_4;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_4;
+		file DRYER684.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_5;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_5;
+		file HOUSE685.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_5;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_5;
+		file DRYER685.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_6;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_6;
+		file HOUSE686.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_6;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_6;
+		file DRYER686.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_7;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_7;
+		file HOUSE687.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_7;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_7;
+		file DRYER687.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_8;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_8;
+		file HOUSE688.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_8;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_8;
+		file DRYER688.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_9;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_9;
+		file HOUSE689.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_9;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_9;
+		file DRYER689.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_10;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_10;
+		file HOUSE690.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_10;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_10;
+		file DRYER690.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_11;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_11;
+		file HOUSE691.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_11;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_11;
+		file DRYER691.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_12;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_12;
+		file HOUSE692.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_12;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_12;
+		file DRYER692.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_13;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_13;
+		file HOUSE693.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_13;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_13;
+		file DRYER693.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_14;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_14;
+		file HOUSE694.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_14;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_14;
+		file DRYER694.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_15;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_15;
+		file HOUSE695.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_15;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_15;
+		file DRYER695.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_16;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_16;
+		file HOUSE696.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_16;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_16;
+		file DRYER696.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_17;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_17;
+		file HOUSE697.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_17;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_17;
+		file DRYER697.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_18;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_18;
+		file HOUSE698.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_18;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_18;
+		file DRYER698.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_19;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_19;
+		file HOUSE699.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_19;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_19;
+		file DRYER699.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_20;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_20;
+		file HOUSE700.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_20;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_20;
+		file DRYER700.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_21;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_21;
+		file HOUSE701.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_21;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_21;
+		file DRYER701.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_22;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_22;
+		file HOUSE702.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_22;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_22;
+		file DRYER702.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_23;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_23;
+		file HOUSE703.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_23;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_23;
+		file DRYER703.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_24;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_24;
+		file HOUSE704.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_24;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_24;
+		file DRYER704.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_25;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_25;
+		file HOUSE705.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_25;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_25;
+		file DRYER705.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_26;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_26;
+		file HOUSE706.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_26;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_26;
+		file DRYER706.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_27;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_27;
+		file HOUSE707.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_27;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_27;
+		file DRYER707.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_28;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_28;
+		file HOUSE708.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_28;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_28;
+		file DRYER708.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_29;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_29;
+		file HOUSE709.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_29;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_29;
+		file DRYER709.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_30;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_30;
+		file HOUSE710.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_30;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_30;
+		file DRYER710.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_31;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_31;
+		file HOUSE711.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_31;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_31;
+		file DRYER711.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_32;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_32;
+		file HOUSE712.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_32;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_32;
+		file DRYER712.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_33;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_33;
+		file HOUSE713.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_33;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_33;
+		file DRYER713.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_34;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_34;
+		file HOUSE714.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_34;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_34;
+		file DRYER714.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_35;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_35;
+		file HOUSE715.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_35;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_35;
+		file DRYER715.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_36;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_36;
+		file HOUSE716.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_36;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_36;
+		file DRYER716.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_37;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_37;
+		file HOUSE717.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_37;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_37;
+		file DRYER717.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_38;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_38;
+		file HOUSE718.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_38;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_38;
+		file DRYER718.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_39;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_39;
+		file HOUSE719.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_39;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_39;
+		file DRYER719.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_h_40;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_675_C_40;
+		file HOUSE720.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_675_C_L_40;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_675_C_40;
+		file DRYER720.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_1;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_1;
+		file HOUSE721.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_1;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_1;
+		file DRYER721.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_2;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_2;
+		file HOUSE722.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_2;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_2;
+		file DRYER722.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_3;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_3;
+		file HOUSE723.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_3;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_3;
+		file DRYER723.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_4;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_4;
+		file HOUSE724.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_4;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_4;
+		file DRYER724.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_5;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_5;
+		file HOUSE725.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_5;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_5;
+		file DRYER725.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_6;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_6;
+		file HOUSE726.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_6;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_6;
+		file DRYER726.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_7;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_7;
+		file HOUSE727.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_7;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_7;
+		file DRYER727.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_8;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_8;
+		file HOUSE728.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_8;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_8;
+		file DRYER728.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_9;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_9;
+		file HOUSE729.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_9;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_9;
+		file DRYER729.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_10;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_10;
+		file HOUSE730.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_10;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_10;
+		file DRYER730.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_11;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_11;
+		file HOUSE731.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_11;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_11;
+		file DRYER731.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_12;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_12;
+		file HOUSE732.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_12;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_12;
+		file DRYER732.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_13;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_13;
+		file HOUSE733.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_13;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_13;
+		file DRYER733.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_14;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_14;
+		file HOUSE734.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_14;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_14;
+		file DRYER734.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_15;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_15;
+		file HOUSE735.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_15;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_15;
+		file DRYER735.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_16;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_16;
+		file HOUSE736.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_16;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_16;
+		file DRYER736.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_17;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_17;
+		file HOUSE737.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_17;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_17;
+		file DRYER737.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_18;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_18;
+		file HOUSE738.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_18;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_18;
+		file DRYER738.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_19;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_19;
+		file HOUSE739.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_19;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_19;
+		file DRYER739.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_20;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_20;
+		file HOUSE740.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_20;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_20;
+		file DRYER740.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_21;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_21;
+		file HOUSE741.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_21;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_21;
+		file DRYER741.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_22;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_22;
+		file HOUSE742.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_22;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_22;
+		file DRYER742.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_23;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_23;
+		file HOUSE743.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_23;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_23;
+		file DRYER743.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_24;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_24;
+		file HOUSE744.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_24;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_24;
+		file DRYER744.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_25;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_25;
+		file HOUSE745.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_25;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_25;
+		file DRYER745.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_26;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_26;
+		file HOUSE746.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_26;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_26;
+		file DRYER746.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_27;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_27;
+		file HOUSE747.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_27;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_27;
+		file DRYER747.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_28;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_28;
+		file HOUSE748.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_28;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_28;
+		file DRYER748.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_29;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_29;
+		file HOUSE749.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_29;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_29;
+		file DRYER749.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_30;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_30;
+		file HOUSE750.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_30;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_30;
+		file DRYER750.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_31;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_31;
+		file HOUSE751.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_31;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_31;
+		file DRYER751.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_32;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_32;
+		file HOUSE752.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_32;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_32;
+		file DRYER752.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_33;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_33;
+		file HOUSE753.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_33;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_33;
+		file DRYER753.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_34;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_34;
+		file HOUSE754.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_34;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_34;
+		file DRYER754.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_35;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_35;
+		file HOUSE755.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_35;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_35;
+		file DRYER755.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_36;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_36;
+		file HOUSE756.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_36;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_36;
+		file DRYER756.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_37;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_37;
+		file HOUSE757.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_37;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_37;
+		file DRYER757.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_38;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_38;
+		file HOUSE758.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_38;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_38;
+		file DRYER758.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_39;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_39;
+		file HOUSE759.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_39;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_39;
+		file DRYER759.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_h_40;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_A_40;
+		file HOUSE760.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_A_L_40;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_A_40;
+		file DRYER760.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_1;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_1;
+		file HOUSE761.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_1;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_1;
+		file DRYER761.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_2;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_2;
+		file HOUSE762.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_2;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_2;
+		file DRYER762.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_3;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_3;
+		file HOUSE763.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_3;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_3;
+		file DRYER763.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_4;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_4;
+		file HOUSE764.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_4;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_4;
+		file DRYER764.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_5;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_5;
+		file HOUSE765.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_5;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_5;
+		file DRYER765.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_6;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_6;
+		file HOUSE766.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_6;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_6;
+		file DRYER766.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_7;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_7;
+		file HOUSE767.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_7;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_7;
+		file DRYER767.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_8;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_8;
+		file HOUSE768.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_8;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_8;
+		file DRYER768.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_9;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_9;
+		file HOUSE769.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_9;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_9;
+		file DRYER769.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_10;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_10;
+		file HOUSE770.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_10;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_10;
+		file DRYER770.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_11;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_11;
+		file HOUSE771.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_11;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_11;
+		file DRYER771.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_12;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_12;
+		file HOUSE772.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_12;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_12;
+		file DRYER772.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_13;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_13;
+		file HOUSE773.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_13;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_13;
+		file DRYER773.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_14;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_14;
+		file HOUSE774.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_14;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_14;
+		file DRYER774.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_15;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_15;
+		file HOUSE775.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_15;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_15;
+		file DRYER775.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_16;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_16;
+		file HOUSE776.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_16;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_16;
+		file DRYER776.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_17;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_17;
+		file HOUSE777.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_17;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_17;
+		file DRYER777.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_18;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_18;
+		file HOUSE778.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_18;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_18;
+		file DRYER778.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_19;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_19;
+		file HOUSE779.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_19;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_19;
+		file DRYER779.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_20;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_20;
+		file HOUSE780.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_20;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_20;
+		file DRYER780.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_21;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_21;
+		file HOUSE781.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_21;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_21;
+		file DRYER781.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_22;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_22;
+		file HOUSE782.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_22;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_22;
+		file DRYER782.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_23;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_23;
+		file HOUSE783.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_23;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_23;
+		file DRYER783.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_24;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_24;
+		file HOUSE784.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_24;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_24;
+		file DRYER784.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_25;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_25;
+		file HOUSE785.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_25;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_25;
+		file DRYER785.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_26;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_26;
+		file HOUSE786.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_26;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_26;
+		file DRYER786.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_27;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_27;
+		file HOUSE787.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_27;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_27;
+		file DRYER787.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_28;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_28;
+		file HOUSE788.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_28;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_28;
+		file DRYER788.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_29;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_29;
+		file HOUSE789.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_29;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_29;
+		file DRYER789.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_30;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_30;
+		file HOUSE790.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_30;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_30;
+		file DRYER790.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_31;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_31;
+		file HOUSE791.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_31;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_31;
+		file DRYER791.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_32;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_32;
+		file HOUSE792.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_32;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_32;
+		file DRYER792.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_33;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_33;
+		file HOUSE793.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_33;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_33;
+		file DRYER793.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_34;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_34;
+		file HOUSE794.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_34;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_34;
+		file DRYER794.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_35;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_35;
+		file HOUSE795.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_35;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_35;
+		file DRYER795.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_36;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_36;
+		file HOUSE796.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_36;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_36;
+		file DRYER796.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_37;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_37;
+		file HOUSE797.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_37;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_37;
+		file DRYER797.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_38;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_38;
+		file HOUSE798.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_38;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_38;
+		file DRYER798.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_39;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_39;
+		file HOUSE799.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_39;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_39;
+		file DRYER799.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_h_40;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_B_40;
+		file HOUSE800.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_B_L_40;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_B_40;
+		file DRYER800.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_1;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_1;
+		file HOUSE801.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_1;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_1;
+		file DRYER801.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_2;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_2;
+		file HOUSE802.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_2;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_2;
+		file DRYER802.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_3;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_3;
+		file HOUSE803.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_3;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_3;
+		file DRYER803.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_4;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_4;
+		file HOUSE804.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_4;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_4;
+		file DRYER804.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_5;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_5;
+		file HOUSE805.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_5;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_5;
+		file DRYER805.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_6;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_6;
+		file HOUSE806.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_6;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_6;
+		file DRYER806.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_7;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_7;
+		file HOUSE807.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_7;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_7;
+		file DRYER807.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_8;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_8;
+		file HOUSE808.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_8;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_8;
+		file DRYER808.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_9;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_9;
+		file HOUSE809.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_9;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_9;
+		file DRYER809.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_10;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_10;
+		file HOUSE810.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_10;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_10;
+		file DRYER810.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_11;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_11;
+		file HOUSE811.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_11;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_11;
+		file DRYER811.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_12;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_12;
+		file HOUSE812.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_12;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_12;
+		file DRYER812.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_13;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_13;
+		file HOUSE813.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_13;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_13;
+		file DRYER813.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_14;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_14;
+		file HOUSE814.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_14;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_14;
+		file DRYER814.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_15;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_15;
+		file HOUSE815.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_15;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_15;
+		file DRYER815.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_16;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_16;
+		file HOUSE816.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_16;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_16;
+		file DRYER816.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_17;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_17;
+		file HOUSE817.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_17;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_17;
+		file DRYER817.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_18;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_18;
+		file HOUSE818.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_18;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_18;
+		file DRYER818.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_19;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_19;
+		file HOUSE819.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_19;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_19;
+		file DRYER819.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_20;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_20;
+		file HOUSE820.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_20;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_20;
+		file DRYER820.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_21;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_21;
+		file HOUSE821.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_21;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_21;
+		file DRYER821.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_22;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_22;
+		file HOUSE822.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_22;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_22;
+		file DRYER822.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_23;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_23;
+		file HOUSE823.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_23;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_23;
+		file DRYER823.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_24;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_24;
+		file HOUSE824.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_24;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_24;
+		file DRYER824.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_25;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_25;
+		file HOUSE825.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_25;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_25;
+		file DRYER825.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_26;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_26;
+		file HOUSE826.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_26;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_26;
+		file DRYER826.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_27;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_27;
+		file HOUSE827.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_27;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_27;
+		file DRYER827.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_28;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_28;
+		file HOUSE828.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_28;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_28;
+		file DRYER828.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_29;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_29;
+		file HOUSE829.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_29;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_29;
+		file DRYER829.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_30;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_30;
+		file HOUSE830.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_30;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_30;
+		file DRYER830.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_31;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_31;
+		file HOUSE831.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_31;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_31;
+		file DRYER831.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_32;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_32;
+		file HOUSE832.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_32;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_32;
+		file DRYER832.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_33;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_33;
+		file HOUSE833.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_33;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_33;
+		file DRYER833.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_34;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_34;
+		file HOUSE834.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_34;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_34;
+		file DRYER834.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_35;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_35;
+		file HOUSE835.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_35;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_35;
+		file DRYER835.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_36;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_36;
+		file HOUSE836.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_36;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_36;
+		file DRYER836.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_37;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_37;
+		file HOUSE837.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_37;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_37;
+		file DRYER837.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_38;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_38;
+		file HOUSE838.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_38;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_38;
+		file DRYER838.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_39;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_39;
+		file HOUSE839.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_39;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_39;
+		file DRYER839.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_h_40;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_671_C_40;
+		file HOUSE840.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_671_C_L_40;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_671_C_40;
+		file DRYER840.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_1;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_1;
+		file HOUSE841.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_1;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_1;
+		file DRYER841.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_2;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_2;
+		file HOUSE842.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_2;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_2;
+		file DRYER842.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_3;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_3;
+		file HOUSE843.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_3;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_3;
+		file DRYER843.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_4;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_4;
+		file HOUSE844.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_4;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_4;
+		file DRYER844.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_5;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_5;
+		file HOUSE845.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_5;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_5;
+		file DRYER845.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_6;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_6;
+		file HOUSE846.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_6;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_6;
+		file DRYER846.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_7;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_7;
+		file HOUSE847.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_7;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_7;
+		file DRYER847.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_8;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_8;
+		file HOUSE848.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_8;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_8;
+		file DRYER848.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_9;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_9;
+		file HOUSE849.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_9;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_9;
+		file DRYER849.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_10;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_10;
+		file HOUSE850.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_10;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_10;
+		file DRYER850.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_11;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_11;
+		file HOUSE851.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_11;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_11;
+		file DRYER851.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_12;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_12;
+		file HOUSE852.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_12;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_12;
+		file DRYER852.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_13;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_13;
+		file HOUSE853.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_13;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_13;
+		file DRYER853.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_14;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_14;
+		file HOUSE854.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_14;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_14;
+		file DRYER854.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_15;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_15;
+		file HOUSE855.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_15;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_15;
+		file DRYER855.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_16;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_16;
+		file HOUSE856.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_16;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_16;
+		file DRYER856.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_17;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_17;
+		file HOUSE857.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_17;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_17;
+		file DRYER857.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_18;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_18;
+		file HOUSE858.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_18;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_18;
+		file DRYER858.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_19;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_19;
+		file HOUSE859.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_19;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_19;
+		file DRYER859.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_20;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_20;
+		file HOUSE860.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_20;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_20;
+		file DRYER860.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_21;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_21;
+		file HOUSE861.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_21;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_21;
+		file DRYER861.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_22;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_22;
+		file HOUSE862.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_22;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_22;
+		file DRYER862.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_23;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_23;
+		file HOUSE863.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_23;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_23;
+		file DRYER863.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_24;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_24;
+		file HOUSE864.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_24;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_24;
+		file DRYER864.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_25;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_25;
+		file HOUSE865.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_25;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_25;
+		file DRYER865.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_26;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_26;
+		file HOUSE866.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_26;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_26;
+		file DRYER866.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_27;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_27;
+		file HOUSE867.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_27;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_27;
+		file DRYER867.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_28;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_28;
+		file HOUSE868.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_28;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_28;
+		file DRYER868.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_29;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_29;
+		file HOUSE869.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_29;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_29;
+		file DRYER869.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_30;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_30;
+		file HOUSE870.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_30;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_30;
+		file DRYER870.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_31;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_31;
+		file HOUSE871.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_31;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_31;
+		file DRYER871.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_32;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_32;
+		file HOUSE872.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_32;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_32;
+		file DRYER872.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_33;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_33;
+		file HOUSE873.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_33;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_33;
+		file DRYER873.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_34;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_34;
+		file HOUSE874.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_34;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_34;
+		file DRYER874.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_35;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_35;
+		file HOUSE875.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_35;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_35;
+		file DRYER875.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_36;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_36;
+		file HOUSE876.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_36;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_36;
+		file DRYER876.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_37;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_37;
+		file HOUSE877.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_37;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_37;
+		file DRYER877.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_38;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_38;
+		file HOUSE878.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_38;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_38;
+		file DRYER878.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_39;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_39;
+		file HOUSE879.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_39;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_39;
+		file DRYER879.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_h_40;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_A_40;
+		file HOUSE880.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_A_L_40;
+	phases AS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_A_40;
+		file DRYER880.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_1;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_1;
+		file HOUSE881.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_1;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_1;
+		file DRYER881.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_2;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_2;
+		file HOUSE882.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_2;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_2;
+		file DRYER882.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_3;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_3;
+		file HOUSE883.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_3;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_3;
+		file DRYER883.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_4;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_4;
+		file HOUSE884.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_4;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_4;
+		file DRYER884.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_5;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_5;
+		file HOUSE885.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_5;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_5;
+		file DRYER885.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_6;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_6;
+		file HOUSE886.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_6;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_6;
+		file DRYER886.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_7;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_7;
+		file HOUSE887.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_7;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_7;
+		file DRYER887.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_8;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_8;
+		file HOUSE888.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_8;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_8;
+		file DRYER888.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_9;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_9;
+		file HOUSE889.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_9;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_9;
+		file DRYER889.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_10;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_10;
+		file HOUSE890.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_10;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_10;
+		file DRYER890.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_11;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_11;
+		file HOUSE891.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_11;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_11;
+		file DRYER891.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_12;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_12;
+		file HOUSE892.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_12;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_12;
+		file DRYER892.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_13;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_13;
+		file HOUSE893.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_13;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_13;
+		file DRYER893.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_14;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_14;
+		file HOUSE894.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_14;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_14;
+		file DRYER894.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_15;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_15;
+		file HOUSE895.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_15;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_15;
+		file DRYER895.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_16;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_16;
+		file HOUSE896.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_16;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_16;
+		file DRYER896.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_17;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_17;
+		file HOUSE897.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_17;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_17;
+		file DRYER897.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_18;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_18;
+		file HOUSE898.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_18;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_18;
+		file DRYER898.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_19;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_19;
+		file HOUSE899.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_19;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_19;
+		file DRYER899.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_20;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_20;
+		file HOUSE900.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_20;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_20;
+		file DRYER900.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_21;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_21;
+		file HOUSE901.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_21;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_21;
+		file DRYER901.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_22;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_22;
+		file HOUSE902.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_22;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_22;
+		file DRYER902.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_23;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_23;
+		file HOUSE903.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_23;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_23;
+		file DRYER903.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_24;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_24;
+		file HOUSE904.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_24;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_24;
+		file DRYER904.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_25;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_25;
+		file HOUSE905.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_25;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_25;
+		file DRYER905.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_26;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_26;
+		file HOUSE906.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_26;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_26;
+		file DRYER906.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_27;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_27;
+		file HOUSE907.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_27;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_27;
+		file DRYER907.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_28;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_28;
+		file HOUSE908.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_28;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_28;
+		file DRYER908.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_29;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_29;
+		file HOUSE909.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_29;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_29;
+		file DRYER909.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_30;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_30;
+		file HOUSE910.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_30;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_30;
+		file DRYER910.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_31;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_31;
+		file HOUSE911.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_31;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_31;
+		file DRYER911.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_32;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_32;
+		file HOUSE912.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_32;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_32;
+		file DRYER912.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_33;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_33;
+		file HOUSE913.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_33;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_33;
+		file DRYER913.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_34;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_34;
+		file HOUSE914.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_34;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_34;
+		file DRYER914.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_35;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_35;
+		file HOUSE915.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_35;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_35;
+		file DRYER915.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_36;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_36;
+		file HOUSE916.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_36;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_36;
+		file DRYER916.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_37;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_37;
+		file HOUSE917.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_37;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_37;
+		file DRYER917.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_38;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_38;
+		file HOUSE918.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_38;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_38;
+		file DRYER918.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_39;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_39;
+		file HOUSE919.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_39;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_39;
+		file DRYER919.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_h_40;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_B_40;
+		file HOUSE920.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_B_L_40;
+	phases BS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_B_40;
+		file DRYER920.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_1;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_1;
+		file HOUSE921.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_1;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_1;
+		file DRYER921.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_2;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_2;
+		file HOUSE922.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_2;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_2;
+		file DRYER922.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_3;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_3;
+		file HOUSE923.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_3;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_3;
+		file DRYER923.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_4;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_4;
+		file HOUSE924.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_4;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_4;
+		file DRYER924.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_5;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_5;
+		file HOUSE925.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_5;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_5;
+		file DRYER925.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_6;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_6;
+		file HOUSE926.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_6;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_6;
+		file DRYER926.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_7;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_7;
+		file HOUSE927.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_7;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_7;
+		file DRYER927.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_8;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_8;
+		file HOUSE928.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_8;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_8;
+		file DRYER928.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_9;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_9;
+		file HOUSE929.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_9;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_9;
+		file DRYER929.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_10;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_10;
+		file HOUSE930.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_10;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_10;
+		file DRYER930.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_11;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_11;
+		file HOUSE931.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_11;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_11;
+		file DRYER931.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_12;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_12;
+		file HOUSE932.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_12;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_12;
+		file DRYER932.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_13;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_13;
+		file HOUSE933.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_13;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_13;
+		file DRYER933.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_14;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_14;
+		file HOUSE934.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_14;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_14;
+		file DRYER934.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_15;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_15;
+		file HOUSE935.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_15;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_15;
+		file DRYER935.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_16;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_16;
+		file HOUSE936.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_16;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_16;
+		file DRYER936.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_17;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_17;
+		file HOUSE937.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_17;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_17;
+		file DRYER937.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_18;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_18;
+		file HOUSE938.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_18;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_18;
+		file DRYER938.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_19;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_19;
+		file HOUSE939.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_19;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_19;
+		file DRYER939.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_20;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_20;
+		file HOUSE940.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_20;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_20;
+		file DRYER940.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_21;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_21;
+		file HOUSE941.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_21;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_21;
+		file DRYER941.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_22;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_22;
+		file HOUSE942.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_22;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_22;
+		file DRYER942.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_23;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_23;
+		file HOUSE943.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_23;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_23;
+		file DRYER943.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_24;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_24;
+		file HOUSE944.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_24;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_24;
+		file DRYER944.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_25;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_25;
+		file HOUSE945.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_25;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_25;
+		file DRYER945.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_26;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_26;
+		file HOUSE946.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_26;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_26;
+		file DRYER946.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_27;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_27;
+		file HOUSE947.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_27;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_27;
+		file DRYER947.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_28;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_28;
+		file HOUSE948.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_28;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_28;
+		file DRYER948.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_29;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_29;
+		file HOUSE949.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_29;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_29;
+		file DRYER949.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_30;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_30;
+		file HOUSE950.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_30;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_30;
+		file DRYER950.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_31;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_31;
+		file HOUSE951.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_31;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_31;
+		file DRYER951.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_32;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_32;
+		file HOUSE952.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_32;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_32;
+		file DRYER952.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_33;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_33;
+		file HOUSE953.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_33;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_33;
+		file DRYER953.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_34;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_34;
+		file HOUSE954.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_34;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_34;
+		file DRYER954.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_35;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_35;
+		file HOUSE955.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_35;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_35;
+		file DRYER955.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_36;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_36;
+		file HOUSE956.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_36;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_36;
+		file DRYER956.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_37;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_37;
+		file HOUSE957.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_37;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_37;
+		file DRYER957.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_38;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_38;
+		file HOUSE958.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_38;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_38;
+		file DRYER958.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_39;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_39;
+		file HOUSE959.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_39;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_39;
+		file DRYER959.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_h_40;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name House_680_C_40;
+		file HOUSE960.csv;
+		property constant_power_1;
+
+	};
+}
+object triplex_load {
+	name trip_load_680_C_L_40;
+	phases CS;
+	voltage_1 120;
+	voltage_2 120;
+	voltage_N 0;
+	nominal_voltage 120;
+	object player {
+		name Load_680_C_40;
+		file DRYER960.csv;
 		property constant_power_1;
 
 	};
