@@ -23,9 +23,19 @@ module powerflow{
 
 module climate;
 module residential {
-implicit_enduses NONE;
-ANSI_voltage_check TRUE;
+    implicit_enduses NONE;
+    ANSI_voltage_check TRUE;
 };
+
+module mysql {
+  hostname "localhost";
+  username "root";
+  password "";
+  schema "gridlabd";
+  port 3306;
+  socketname "/tmp/mysql.sock";
+  clientflags COMPRESS|FOUND_ROWS|IGNORE_SIGPIPE|INTERACTIVE|LOCAL_FILES|MULTI_RESULTS|MULTI_STATEMENTS|NO_SCHEMA|ODBC|SSL|REMEMBER_OPTIONS;
+}
 
 #include "./triploads.glm"
 

@@ -7,9 +7,9 @@ object triplex_load {
 	nominal_voltage 120;
 	object player {
 		name House_652_A_1;
-		file "odbc:data source=(localdb)\mssqllocaldb;initial catalog=capstone;integrated security=true:HOUSE1";
+        table House1;
+        connection mysql_gridlabd;
 		property constant_power_1;
-
 	};
 }
 object triplex_load {
